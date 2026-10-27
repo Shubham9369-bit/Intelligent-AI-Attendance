@@ -1,0 +1,5 @@
+known_faces/
+attendance.db
+attendance.csv
+encodings.pkl
+__pycache__/
